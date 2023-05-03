@@ -1,4 +1,0 @@
-inherited FrmDashBoard: TFrmDashBoard
-  DesignLeft = 2
-  DesignTop = 2
-end
